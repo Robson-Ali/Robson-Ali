@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1 align="center">Hi there 👋, I'm [Your Full Name]</h1>
+<h1 align="center">Hi there 👋, I'm Robson Aliye </h1>
 <h3 align="center">Aspiring Software Engineer | ALX Frontend Learner | Passionate Problem Solver</h3>
 
 <p align="center">
@@ -85,10 +85,10 @@ Here are a few of my recent and favorite projects:
 I'm always open to collaboration, learning, or just a friendly chat.
 
 <p>
-  <a href="https://www.linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/Robson-Aliye" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:robsonaliye44@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
